@@ -1,0 +1,15 @@
+*{
+    font-family: sans-serif;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    /* border: 2px solid #000; */
+    background-color: #0009;
+    /* background-image: url("https://imrhan.com/wp-content/uploads/2019/01/pubg_PNG56.png"); */
+    /* background-position: center; */
+    /* height: 100vh; */
+    /* background-repeat: no-repeat; */
+    /* background-size: 50vh; */
+}
